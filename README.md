@@ -1,2 +1,2 @@
 # learn
-for tech
+print ('hello world')
